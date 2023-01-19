@@ -1,0 +1,8 @@
+# DataSource Config
+spring:
+  datasource:
+    type: com.zaxxer.hikari.HikariDataSource
+    driver-class-name: com.mysql.jdbc.Driver
+    username:
+    password:
+    url:
